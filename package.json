@@ -1,0 +1,25 @@
+{
+  "name": "mxn_rate",
+  "version": "1.0.0",
+  "description": "An alexa skill to get the current Mexican Peso - US Dollar exchange rate",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardo-hdz/mxn_rate.git"
+  },
+  "keywords": [
+    "mxn",
+    "usd",
+    "exchange",
+    "rate"
+  ],
+  "author": "Ricardo Hernandez @ricardohdz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardo-hdz/mxn_rate/issues"
+  },
+  "homepage": "https://github.com/ricardo-hdz/mxn_rate#readme"
+}
