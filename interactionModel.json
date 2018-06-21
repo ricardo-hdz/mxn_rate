@@ -1,0 +1,43 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "peso exchanger",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "ExchangeIntent",
+                    "slots": [],
+                    "samples": [
+                        "today's rate",
+                        "current rate",
+                        "what's today exchange rate",
+                        "what's current exchange rate",
+                        "what's today rate",
+                        "what's current rate",
+                        "today's exchange rate",
+                        "current exchange rate",
+                        "how much is a peso today",
+                        "show me the peso",
+                        "peso rate"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
